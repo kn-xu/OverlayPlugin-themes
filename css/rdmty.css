@@ -274,6 +274,15 @@ li:last-child {
 .show-job-colors .dnc .bar {
     background-color: #df2871;
 }
+.show-job-colors .blu .bar {
+    background-color: #0981D1;
+}
+.show-job-colors .sge .bar {
+    background-color: #EEEEEE;
+}
+.show-job-colors .rpr .bar {
+    background-color: #800000;
+}
 
 
 .job-icon {
