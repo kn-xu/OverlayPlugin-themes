@@ -215,15 +215,15 @@ li:last-child {
 }
 
 .show-job-colors .pgl .bar, .show-job-colors .mnk .bar {
-    background-color: #b38915;
+    background-color: #d69c00;
 }
 
 .show-job-colors .acn .bar, .show-job-colors .smn .bar {
-    background-color: #33670b;
+    background-color: #2D9B78;
 }
 
 .show-job-colors .lnc .bar, .show-job-colors .drg .bar {
-    background-color: #3752d8;
+    background-color: #4164CD;
 }
 
 .show-job-colors .cnj .bar, .show-job-colors .whm .bar {
@@ -231,48 +231,48 @@ li:last-child {
 }
 
 .show-job-colors .thm .bar, .show-job-colors .blm .bar {
-    background-color: #674598;
+    background-color: #A579D6;
 }
 
 .show-job-colors .nin .bar, .show-job-colors .rog .bar {
-    background-color: #ee2e48;
+    background-color: #AF1964;
 }
 
 .show-job-colors .sch .bar {
-    background-color: #4442a8;
+    background-color: #8657FF;
 }
 
 .show-job-colors .arc .bar, .show-job-colors .brd .bar {
-    background-color: #adc551;
+    background-color: #91ba5e;
 }
 
 .show-job-colors .gld .bar, .show-job-colors .pld .bar {
-    background-color: #7b9aa2;
+    background-color: #A8D2E6;
 }
 
 .show-job-colors .mrd .bar, .show-job-colors .war .bar {
-    background-color: #a91a16;
+    background-color: #cf2621;
 }
 .show-job-colors .drk .bar {
-    background-color: #541165;
+    background-color: #d126cc;
 }
 .show-job-colors .ast .bar {
-    background-color: #f6da6a;
+    background-color: #FFE74A;
 }
 .show-job-colors .mch .bar {
-    background-color: #6bcec2;
+    background-color: #6EE1D6;
 }
 .show-job-colors .sam .bar {
-    background-color: #184B4D;
+    background-color: #e46d04;
 }
 .show-job-colors .rdm .bar {
-    background-color: #E1907E;
+    background-color: #e87b7b;
 }
 .show-job-colors .gnb .bar {
-    background-color: #3b4292;
+    background-color: #796D30;
 }
 .show-job-colors .dnc .bar {
-    background-color: #df2871;
+    background-color: #E2B0AF;
 }
 .show-job-colors .blu .bar {
     background-color: #0981D1;
@@ -281,7 +281,7 @@ li:last-child {
     background-color: #EEEEEE;
 }
 .show-job-colors .rpr .bar {
-    background-color: #800000;
+    background-color: #000000;
 }
 
 
