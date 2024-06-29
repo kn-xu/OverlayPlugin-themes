@@ -283,6 +283,12 @@ li:last-child {
 .show-job-colors .rpr .bar {
     background-color: #965A90;
 }
+.show-job-colors .vpr .bar {
+    background-color: #0d4e06;
+}
+.show-job-colors .pct .bar {
+    background-color: #60073b;
+}
 
 
 .job-icon {
